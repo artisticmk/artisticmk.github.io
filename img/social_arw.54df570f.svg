@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="41px" height="73px" viewBox="0 0 41 73" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#16A068" stop-opacity="0" />
+      <stop offset="1" stop-color="#00B0F0" />
+    </linearGradient>
+  </defs>
+  <g id="Group-2" transform="translate(0.5 0.5)">
+    <g id="Group">
+      <path d="M0 0L0 53L18.7387 53L18.7387 53L18.7387 53" transform="matrix(1 0 0 0.99999994 20.180176 0)" id="Line" fill="none" fill-rule="evenodd" stroke="url(#gradient_1)" stroke-width="1" stroke-linecap="square" />
+      <path d="M0 0L38.9189 1" transform="matrix(1 0 0 0.99999994 0.36036682 61.907166)" id="Line-3" fill="none" fill-rule="evenodd" stroke="#00B0F0" stroke-width="1" stroke-linecap="square" />
+      <path d="M0 0L38.9189 1" transform="matrix(1 0 0 0.99999994 1.0810852 70.45807)" id="Line-3-Copy" fill="none" fill-rule="evenodd" stroke="#00B0F0" stroke-width="1" stroke-linecap="square" />
+      <path d="M0.720721 0L0.720721 8.5509" transform="matrix(1 0 0 0.99999994 38.198196 53.356293)" id="Line-2" fill="none" fill-rule="evenodd" stroke="#00B0F0" stroke-width="1" stroke-linecap="square" />
+      <path d="M0.720721 0L0.720721 8.5509" transform="matrix(1 0 0 0.99999994 0 61.907166)" id="Line-2-Copy" fill="none" fill-rule="evenodd" stroke="#00B0F0" stroke-width="1" stroke-linecap="square" />
+    </g>
+  </g>
+</svg>
